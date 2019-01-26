@@ -9,3 +9,8 @@
 5. git commit - Permanently stores files changes from the staging area in the repository.
 
 6. git log - Shows git commit history.
+
+7. git mv - Use to rename the file name or move the file from one directory to another.
+
+8. git show - Shows the previous version of our project.
+
