@@ -1,0 +1,11 @@
+1. git init - Creates a new git repository.
+
+2. git status - Inspects the contents of the working directory and staging area.
+
+3.git add - Adds files from the working dirctory to the staging area.
+
+4. git diff - Shows the difference between the working directory and the staging area.
+
+5. git commit - Permanently stores files changes from the staging area in the repository.
+
+6. git log - Shows git commit history.
