@@ -14,3 +14,8 @@
 
 8. git show - Shows the previous version of our project.
 
+9. git config - This command sets the author name & email address to be used with your commits.
+
+10. git clone - This command is used to obtain a repository from an existing url.
+
+11. git reset - This command unstages the file but it preserves the file content.
