@@ -19,3 +19,12 @@
 10. git clone - This command is used to obtain a repository from an existing url.
 
 11. git reset - This command unstages the file but it preserves the file content.
+
+12. git rm - This command delets the file from working directory & stages the deletion.
+
+13. git tag - This command is used to give tages to the specified commit.
+
+14. git branch- This command creates a new branch.
+
+15. git checkout - This command is used to switch from on branch to another.
+
