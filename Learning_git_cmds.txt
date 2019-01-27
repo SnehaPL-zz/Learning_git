@@ -35,3 +35,7 @@
 18. git pull - This command fectches and merge chamges on the remote server to working directory.
 
 19. git stash - This command temporarily stores all the modified tracked files and list all the stashed changes.
+
+20. git remote - This command is used to connect local repository to the remote server.
+
+21. git fetch - This command fetch all the branches from the repository.
