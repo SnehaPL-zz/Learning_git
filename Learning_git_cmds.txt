@@ -28,3 +28,10 @@
 
 15. git checkout - This command is used to switch from on branch to another.
 
+16. git merge - This command merges the specified branch's history to the current branch.
+
+17. git push - This command sends the committed changes of master branch to remote repository.
+
+18. git pull - This command fectches and merge chamges on the remote server to working directory.
+
+19. git stash - This command temporarily stores all the modified tracked files and list all the stashed changes.
