@@ -39,3 +39,5 @@
 20. git remote - This command is used to connect local repository to the remote server.
 
 21. git fetch - This command fetch all the branches from the repository.
+
+22. git format-patch - This command creates a patchfile, whose contents are similar to git diff but along with code it also has metadata about commits.
